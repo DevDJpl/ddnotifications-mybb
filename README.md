@@ -19,6 +19,6 @@ The ddNotifications plugin enhances MyBB forums with customizable notifications,
 This plugin is released under the [MIT License](https://github.com/DevDJpl/ddnotifications-mybb/blob/master/LICENSE), allowing for flexibility and adaptability.
 
 ## Thank You!
-We hope this plugin enhances the notification experience for your MyBB forum and contributes to the overall engagement of your community. Thank you for choosing ddNotifications!
+I hope this plugin enhances the notification experience for your MyBB forum and contributes to the overall engagement of your community. Thank you for choosing ddNotifications!
 
 Enjoy using the plugin!
